@@ -4,6 +4,11 @@
 
 1. In Ruby, everything is an object.
 
+## Rubymine related
+
+1. Auto Comeplete Code
+   https://www.jetbrains.com/help/ruby/auto-completing-code.html
+
 # Setup Ruby Env. on Mac
 
 Ref.
