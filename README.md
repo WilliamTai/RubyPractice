@@ -14,6 +14,7 @@
    http://www.railsonmaui.com/tips/rubymine/rubymine-tips-rails-tutorial.html
 1. Check code style with the RuboCop
    https://rubocop.readthedocs.io/en/stable/
+   https://www.jetbrains.com/help/ruby/rubocop.html
 
 # Setup Ruby Env. on Mac
 
