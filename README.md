@@ -4,6 +4,7 @@
 
 1. In Ruby, everything is an object.
 2. In methods of Ruby, return is automatically apply.
+3. Ruby prefer to code in the same line.
 
 ## Rubymine related
 
