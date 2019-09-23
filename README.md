@@ -12,6 +12,8 @@
    https://www.jetbrains.com/help/ruby/auto-completing-code.html
 1. Rubymine Tips
    http://www.railsonmaui.com/tips/rubymine/rubymine-tips-rails-tutorial.html
+1. Check code style with the RuboCop
+   https://rubocop.readthedocs.io/en/stable/
 
 # Setup Ruby Env. on Mac
 
