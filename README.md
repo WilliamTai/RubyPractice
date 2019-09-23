@@ -9,6 +9,8 @@
 
 1. Auto Comeplete Code
    https://www.jetbrains.com/help/ruby/auto-completing-code.html
+1. Rubymine Tips
+   http://www.railsonmaui.com/tips/rubymine/rubymine-tips-rails-tutorial.html
 
 # Setup Ruby Env. on Mac
 
