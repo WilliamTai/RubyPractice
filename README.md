@@ -3,6 +3,7 @@
 ## Some I think is important
 
 1. In Ruby, everything is an object.
+2. In methods of Ruby, return is automatically apply.
 
 ## Rubymine related
 
