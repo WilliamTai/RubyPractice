@@ -15,6 +15,8 @@
 1. Check code style with the RuboCop
    https://rubocop.readthedocs.io/en/stable/
    https://www.jetbrains.com/help/ruby/rubocop.html
+1. Using bundler to get related package from gem
+   https://www.jetbrains.com/help/ruby/using-the-bundler.html
 
 # Setup Ruby Env. on Mac
 
