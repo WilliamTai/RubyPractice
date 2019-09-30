@@ -21,6 +21,7 @@
 4. Using bundler to get related package from gem
    https://www.jetbrains.com/help/ruby/using-the-bundler.html
 5. Those great functions of Rubymine (In Chinese) https://medium.com/@et3216/rubymine-%E5%B8%B6%E6%88%91%E5%90%91%E4%B8%8A%E9%A3%9B-8478c30af49c
+6. Plugin: Railways http://plugins.jetbrains.com/plugin/7110-railways
 
 # Setup Ruby Env. on Mac
 
